@@ -51,7 +51,7 @@ const Posts = () => {
                 </div>
                 <div
                   ref={lastelement}
-                  className="capitalize text-white text-justify text-lg"
+                  className="capitalize text-white text-lg"
                 >
                   {post.body}
                 </div>
